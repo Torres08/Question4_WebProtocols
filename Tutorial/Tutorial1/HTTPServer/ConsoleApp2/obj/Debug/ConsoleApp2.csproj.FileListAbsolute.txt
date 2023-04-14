@@ -1,0 +1,16 @@
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\juanl\Desktop\Web Protocols\ConsoleApp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

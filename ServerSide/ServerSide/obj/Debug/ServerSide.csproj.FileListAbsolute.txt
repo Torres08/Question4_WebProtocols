@@ -1,0 +1,16 @@
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\ServerSide\ServerSide\obj\Debug\ServerSide.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question4\ServerSide\ServerSide\obj\Debug\ServerSide.pdb

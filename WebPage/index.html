@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Question 4</title>
+</head>
+<body>
+
+    <h1>Question 4</h1>
+
+  <button id="question1">Question 1</button>
+  <button id="question2">Question 2</button>
+  <button id="question3">Question 3</button>
+
+  <div id="result"></div>
+
+  <script>
+    const question1Button = document.querySelector('#question1');
+    question1Button.addEventListener('click', () => {
+      fetch('http://localhost:8080/question1')
+        .then(response => response.text())
+        .then(data => {
+          const resultElement = document.querySelector('#result');
+          resultElement.innerText = data;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    });
+
+    const question2Button = document.querySelector('#question2');
+    question2Button.addEventListener('click', () => {
+      fetch('http://localhost:8080/question2')
+        .then(response => response.text())
+        .then(data => {
+          const resultElement = document.querySelector('#result');
+          resultElement.innerText = data;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    });
+
+    const question3Button = document.querySelector('#question3');
+    question3Button.addEventListener('click', () => {
+      fetch('http://localhost:8080/question3')
+        .then(response => {
+            console.log(response);
+            return response.text();
+        })
+        .then(data => {
+          const resultElement = document.querySelector('#result');
+          resultElement.innerText = data;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+        });
+    });
+  </script>
+</body>
+</html>

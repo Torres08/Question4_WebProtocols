@@ -1,0 +1,12 @@
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\obj\Debug\Question2.csproj.CopyComplete
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Tutorial2\Question2\Question2\obj\Debug\Question2.pdb

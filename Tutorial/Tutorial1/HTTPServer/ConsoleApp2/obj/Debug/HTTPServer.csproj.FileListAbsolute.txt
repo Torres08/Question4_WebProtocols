@@ -1,0 +1,8 @@
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\obj\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\obj\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\juanl\Desktop\Web Protocols\Labs\Exercise\HTTPServer\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
